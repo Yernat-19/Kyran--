@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kyran</string>
+    <string name="title_course">Курстар</string>
+    <string name="title_question">Сұрақ Жауап</string>
+    <string name="title_search">Іздеу</string>
+    <string name="title_account">Аккаунт</string>
+
+    <string name="tab_my_courses">Менің курстарым</string>
+    <string name="tab_all_courses">Барлық  курстар  </string>
+    <string name="tab_materials">Материалдар</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+</resources>
